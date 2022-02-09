@@ -1,0 +1,62 @@
+[
+      {
+        "imgUrl" : ["https://lh5.googleusercontent.com/p/AF1QipPkCh37X6u28wNVaA9oG8AdReWNq-5c1144yoP6=w464-h260-n-k-no", "http://www.gloriosas.com.py/wp-content/uploads/sites/9/2017/05/original_4.jpg.jpg"],
+        "title" : "Eco Reserva Mbatovi",
+        "titleDescription": "De Interés Turístico Nacional",
+        "description": "La Reserva está situada en plena Cordillera de los Altos, en el Departamento de Paraguarí; y forma parte de la ecorregión denominada Litoral Central del Paraguay. Su acceso está ubicado a 72 km de Asunción.",
+        "rating" : "4,7 / 5",
+        "price" : "desde 0 Gs.",
+        "city" : "paraguari",
+        "id" : "1"
+      },
+      {
+        "imgUrl" : ["https://www.gobernaciondeparaguari.gov.py/application/files/5216/1471/1931/CERRO_HU.jpeg", "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/88/55/f1/cerro-hu.jpg?w=1000&h=-1&s=1"],
+        "title" : "Cerro Hû",
+        "titleDescription": "De Interés Turístico Nacional",
+        "description": "El Cerro Hu (Cerro negro) es uno de los emblemas visuales de la ciudad de Paraguarí; donde uno de los paisajes más reconocidos es el de la ruta que une ésta ciudad con Piribebuy y que pasa entre este cerro y el Cerro de la Artillería.",
+        "rating" : "4,3 / 5",
+        "price" : "0 Gs.",
+        "city" : "paraguari",
+        "id" : "2"
+      },
+      {
+        "imgUrl" : ["https://i0.wp.com/www.portalpiribebuy.com/wp-content/uploads/2019/05/IMG_20161119_180915924_HDR.jpg?resize=640%2C360&ssl=1", "https://i0.wp.com/www.portalpiribebuy.com/wp-content/uploads/2019/05/IMG_20161119_181847826_HDR.jpg?resize=770%2C433&ssl=1"],
+        "title" : "Balneario Chololo",
+        "titleDescription": "Hotel Parador Chololo",
+        "description": "En el km 88 de la Ruta Gral. Rogelio R. Benitez que conecta Piribebuy con Paraguari se encuentra la paradisíaca Chololó, un valle de exuberante vegetación, colinas, arroyos, cascadas y manantiales.",
+        "rating" : "4,0 / 5",
+        "price" : "desde 20.000 Gs.",
+        "city" : "paraguari",
+        "id" : "3"
+      },
+      {
+        "imgUrl" : ["https://www.abc.com.py/resizer/xVYaEwe5Ic6R0TQJ3zjhAGG4lfU=/fit-in/770x495/smart/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/FLIZFMK3KBHI3CH4YVLPFCN6D4.jpg", "https://upload.wikimedia.org/wikipedia/commons/3/35/Palacio_de_los_L%C3%B3pez.jpg"],
+        "title" : "Palacio de López",
+        "titleDescription": "Tesoro del Patrimonio Cultural",
+        "description" : "El Palacio de López, también llamado usualmente Palacio de Gobierno o Palacio Presidencial, es la sede del Poder Ejecutivo del Gobierno paraguayo y de la presidencia de la República del Paraguay.",
+        "rating" : "4,9 / 5",
+        "price" : "0 Gs.",
+        "city" : "asuncion",
+        "id" : "4"
+      },
+      {
+        "imgUrl" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykBvYjPc5uCY1D2sMh0AQfJuAquT3VTsk-0es_57eBT5TwGQIixXfktnkMONS8FbuQJeKBbiE4olxXJ1guazgVA", "https://www.abc.com.py/resizer/vkOJoIhumodzs-99OTR2z3cu19U=/fit-in/770x495/smart/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/MB5RIL2B5ZGLRFZLPPZJTXSV5A.jpg"],
+        "title" : "Panteón de los Héroes",
+        "titleDescription": "Tesoro del Patrimonio Cultural",
+        "description" : "El Panteón Nacional de los Héroes y Oratorio de la Virgen Nuestra Señora Santa María de la Asunción se encuentra entre las calles Palma y Chile en pleno microcentro de la capital del Paraguay, Asunción. ",
+        "rating" : "4,7 / 5",
+        "price" : "0 Gs.",
+        "city" : "asuncion",
+        "id" : "5"
+      },
+      {
+        "imgUrl" : ["https://upload.wikimedia.org/wikipedia/commons/4/4f/Asunci%C3%B3n_-_Casa_de_la_Independencia.JPG", "http://www.cultura.gov.py/wp-content/uploads/2017/01/Panorama_sin_t%C3%ADtulo-salon-3-vertical.jpg"],
+        "title" : "Casa de la Independencia",
+        "titleDescription": "Monumento Histórico Nacional",
+        "description" : "El Museo Casa de la Independencia en Asunción, fue inaugurado el 14 de mayo de 1965. Ubicado en la esquina de las calles Presidente Franco y 14 de Mayo, destaca en él su marcado estilo colonial.", 
+        "rating" : "4,3 / 5",
+        "price" : "0 Gs.",
+        "city" : "asuncion",
+        "id" : "6"
+      }
+]
