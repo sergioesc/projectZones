@@ -6,6 +6,10 @@ export const ItemContainer = styled.div`
 `;
 export const ItemTitle = styled.h1`
     font-size: 47px;
+    @media (max-width:750px){
+        text-align: center;
+        font-size: 33px;
+    }
 `;
 
 
@@ -19,10 +23,22 @@ export const ImgContainer = styled.div`
     grid-template-columns: 60% 40%;
     grid-template-rows: 600px;
     column-gap: 10px;
-    margin: 60px auto;   
+    margin: 40px auto;   
     width: 100%;
     justify-content: center;
-`;
+    @media (max-width:1000px){
+        grid-template-columns: 50% 50%;
+    }
+    @media (max-width:750px){
+        grid-template-columns: 90%;
+        grid-template-rows: 400px 150px;
+        row-gap: 10px;
+    }
+    @media (max-width:500px){
+        grid-template-rows: 300px 100px;
+    }
+
+`;  
 export const ImgItemFirstContainer = styled.a`
     width: 100%;
     height:100%;
@@ -35,6 +51,13 @@ export const ImgItemSecondaryContainer = styled.div`
     grid-template-columns: 45% 45%;
     grid-template-rows:295px 295px;
     gap: 10px;
+    @media (max-width: 750px){
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: 1fr;
+    }
+    @media (max-width:500px){
+        grid-template-rows: 100px;   
+    }
 `;
 export const ContainerImgSecond = styled.div`
     width: 100%;
@@ -67,9 +90,17 @@ export const MapContainer = styled.div`
 export const MapContainerDirMap = styled.div`
     display:flex;
     width: 100%;
+    margin: auto;
+    @media (max-width:1000px){
+        display: block;
+    }
 `;
 export const MapContainerDir = styled.div`
-    width: 60%; 
+    width: 60%;
+    @media (max-width:1000px){
+        width: 100%;
+        margin: auto;
+    } 
 `;
 export const MapContainerMap = styled.div`
     width: 40%;
@@ -80,6 +111,10 @@ export const MapContainerMap = styled.div`
     text-align: center;
     cursor: pointer;
     margin: 0 40px;
+    @media (max-width:1000px){
+        width: 100%;
+        margin: 40px auto;
+    }
 `;
 export const MapParrafo = styled.p`
     margin: 10px auto;
@@ -98,7 +133,7 @@ export const MapParrafo2= styled.p`
         transition: all ease .3s;
     }
     & span{
-        color: cyan;
+        color: red;
     }
 
 `;

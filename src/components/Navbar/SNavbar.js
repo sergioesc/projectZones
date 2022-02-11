@@ -6,9 +6,7 @@ export const ContainerNav = styled.div`
     display: flex;
     width: 100%;
     height: 55px;
-    background: #141E30;
-    background: -webkit-linear-gradient(to right, #243B55, #141E30);
-    background: linear-gradient(to right, #243B55, #141E30); 
+    background-color: transparent;
     color: white;
     margin-bottom: 20px;
     & a{
@@ -28,7 +26,9 @@ export const MenuContainer = styled.div`
         position: absolute;
         width: 100%;
         top: 55px;
-        background-color: black;
+        background: #8E0E00;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         opacity: ${(props) => (props.extendShowMenu ? "1" : "0")};
         transition: all ease .3s
     }

@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom'
                      <MapWhere>
                         <Link to="/"> 
                             <WhereText>MAPA INTERACTIVO</WhereText>
-                            <WhereDescription>Podras interactuar con un mapa en tiempo real con tecnologia de Google Maps.</WhereDescription>
+                            <WhereDescription>Podras interactuar con un mapa en tiempo real con tecnologia Google Maps.</WhereDescription>
                         </Link> 
 
                      </MapWhere>
@@ -17,8 +17,8 @@ import { Link } from 'react-router-dom'
                  <GridContainerSearch>
                      <SearchWhere>
                         <Link to="/buscar"> 
-                            <WhereText1>BUSCADOR</WhereText1>
-                            <WhereDescription1>Podras interactuar con el buscador en tiempo real con tecnoloogia nuestra.</WhereDescription1>
+                            <WhereText1>BUSCADOR PROJECT</WhereText1>
+                            <WhereDescription1>Podras interactuar con el search en tiempo real con nuestra propia tecnologia</WhereDescription1>
                         </Link>
                      </SearchWhere>
                  </GridContainerSearch>
