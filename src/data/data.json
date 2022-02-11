@@ -1,62 +1,92 @@
 [
       {
-        "imgUrl" : ["https://lh5.googleusercontent.com/p/AF1QipPkCh37X6u28wNVaA9oG8AdReWNq-5c1144yoP6=w464-h260-n-k-no", "http://www.gloriosas.com.py/wp-content/uploads/sites/9/2017/05/original_4.jpg.jpg"],
+        "imgUrl" : ["https://media-cdn.tripadvisor.com/media/photo-s/06/71/69/e2/eco-reserva-mbatovi.jpg","https://www.abc.com.py/resizer/mn0f_r4J6W9fs3EZ5z6lc7Pa5DE=/fit-in/770x495/smart/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/SIOOXSMJORDI3GW5PLANIXEPIA.jpg","https://www.mbatovi.com.py/img/reserva_mbatovi-18.jpg","https://lh5.googleusercontent.com/p/AF1QipPkCh37X6u28wNVaA9oG8AdReWNq-5c1144yoP6=w464-h260-n-k-no", "http://www.gloriosas.com.py/wp-content/uploads/sites/9/2017/05/original_4.jpg.jpg"],
         "title" : "Eco Reserva Mbatovi",
         "titleDescription": "De Interés Turístico Nacional",
         "description": "La Reserva está situada en plena Cordillera de los Altos, en el Departamento de Paraguarí; y forma parte de la ecorregión denominada Litoral Central del Paraguay. Su acceso está ubicado a 72 km de Asunción.",
+        "descriptionLong1" : "En el año 1999, los esposos Jacinto Santa María y Marta González Ayala emprendieron la búsqueda de un espacio natural en el que pudieran construir una casa familiar para los fines de semana. Fue así que llegaron hasta un rincón de la Cordillera de los Altos ubicado cerca de la ciudad de Paraguarí desde donde se podía disfrutar de una vista panorámica de la Serranía, y del valle de Pirayú.",
+        "descriptionLong2" : "Fascinados por la extraordinaria belleza del paisaje, adquirieron el inmueble y decidieron que ese lugar 'era demasiado bello como para ser disfrutado por una sola familia'; y por lo tanto decidieron que el sitio debía debía ser protegido y compartido de alguna forma con la gente. Así nació el sueño que hoy convertido en realidad se llama 'Eco-reserva Mbatovi'.",
+        "directionMap" : "https://goo.gl/maps/e4bWySyw5uYmYUsr8",
+        "direction" : "La Eco-Reserva Mbatovi está ubicada sobre la ruta asfaltada que une las rutas 1 y 2, entre las ciudades de Paraguari y Piribebuy; a 72 Km. de Asunción, accediendo por Ruta 1, y a 93 Km. de la capital, llegando por la Ruta 2.",
         "rating" : "4,7 / 5",
         "price" : "desde 0 Gs.",
         "city" : "paraguari",
-        "id" : "1"
+        "id" : "1",
+        "urlInner" : "eco-reserva-mabotivi"
       },
       {
-        "imgUrl" : ["https://www.gobernaciondeparaguari.gov.py/application/files/5216/1471/1931/CERRO_HU.jpeg", "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/88/55/f1/cerro-hu.jpg?w=1000&h=-1&s=1"],
+        "imgUrl" : ["https://images.hoy.com.py/uploads/203720/cerrohu__xxxl.jpeg","https://s2.wklcdn.com/image_127/3822537/23743961/15086015Master.jpg","https://www.lanacion.com.py/resizer/xsQzSeQ7ilSlQfnCGWBUbF-ox6o=/fit-in/1000x800/smart/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NJBG2SNJBJC5ZF26BNJMTK4IQ4.jpg","https://www.gobernaciondeparaguari.gov.py/application/files/5216/1471/1931/CERRO_HU.jpeg", "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/88/55/f1/cerro-hu.jpg?w=1000&h=-1&s=1"],
         "title" : "Cerro Hû",
         "titleDescription": "De Interés Turístico Nacional",
         "description": "El Cerro Hu (Cerro negro) es uno de los emblemas visuales de la ciudad de Paraguarí; donde uno de los paisajes más reconocidos es el de la ruta que une ésta ciudad con Piribebuy y que pasa entre este cerro y el Cerro de la Artillería.",
+        "descriptionLong1": "El Cerro Hu (Cerro negro) es uno de los emblemas visuales de la ciudad de Paraguarí; donde uno de los paisajes más reconocidos es el de la ruta que une ésta ciudad con Piribebuy y que pasa entre este cerro y el Cerro de la Artillería.",
+        "descriptionLong2": "El Cerro Hu en los últimos años se volvió un hito para los amantes que gustan de ascender o escalar por senderos sinuosos y exigentes, pero el precio de llegar a su cima de 375 metros para disfrutar de la vista completa, vale todo el esfuerzo.",
+        "directionMap": "https://goo.gl/maps/xYrhsBSXjPYBZm979",
+        "direction": "El Cerro Hu se encuentra en el departamento de Paraguarí en la ciudad de Paraguarí en el Barrio San Miguel, cerca de la ruta que une las rutas 1 y 2, entre Paraguarí y Piribebuy",
         "rating" : "4,3 / 5",
         "price" : "0 Gs.",
         "city" : "paraguari",
-        "id" : "2"
+        "id" : "2",
+        "urlInner" : "cerro-hu"
       },
       {
-        "imgUrl" : ["https://i0.wp.com/www.portalpiribebuy.com/wp-content/uploads/2019/05/IMG_20161119_180915924_HDR.jpg?resize=640%2C360&ssl=1", "https://i0.wp.com/www.portalpiribebuy.com/wp-content/uploads/2019/05/IMG_20161119_181847826_HDR.jpg?resize=770%2C433&ssl=1"],
+        "imgUrl" : ["https://media-cdn.tripadvisor.com/media/photo-s/16/1a/6e/bf/arroyo-chololo-en-parador.jpg","https://i.pinimg.com/564x/17/86/65/1786650765d51319cbf612c592e451b6.jpg","https://scontent.fasu9-1.fna.fbcdn.net/v/t1.6435-9/139306030_1797447257071687_3271396004957958870_n.jpg?stp=dst-jpg_p960x960&_nc_cat=101&ccb=1-5&_nc_sid=36a2c1&_nc_ohc=rKHgYLo5nwgAX-UgQYC&_nc_ht=scontent.fasu9-1.fna&oh=00_AT9-CUt4h6fCeKqVWjdw_HwyCdY_KP8dFQFH5ytyDSNnOQ&oe=622B7E87","https://i0.wp.com/www.portalpiribebuy.com/wp-content/uploads/2019/05/IMG_20161119_180915924_HDR.jpg?resize=640%2C360&ssl=1", "https://i0.wp.com/www.portalpiribebuy.com/wp-content/uploads/2019/05/IMG_20161119_181847826_HDR.jpg?resize=770%2C433&ssl=1"],
         "title" : "Balneario Chololo",
         "titleDescription": "Hotel Parador Chololo",
         "description": "En el km 88 de la Ruta Gral. Rogelio R. Benitez que conecta Piribebuy con Paraguari se encuentra la paradisíaca Chololó, un valle de exuberante vegetación, colinas, arroyos, cascadas y manantiales.",
+        "descriptionLong1": "El Hotel Turístico Chololó es un lugar rodeado de naturaleza verde y a orillas del arroyo que lleva su nombre, en honor al ruido que hacen las aguas al chocar por las rocas de sus pequeños saltos y cascadas naturales que abundan en la zona.",
+        "descriptionLong2": "Este complejo cuenta con varios servicios orientados a la familia, cuyo principal objetivo es el de ofrecer un lugar apacible y para estar en contacto con la naturaleza.",
+        "directionMap": "https://goo.gl/maps/vzKz89hpUwvaNsnF8",
+        "direction": "La Eco-Reserva Mbatovi está ubicada sobre la ruta asfaltada que une las rutas 1 y 2, entre las ciudades de Paraguari y Piribebuy; a 72 Km. de Asunción, accediendo por Ruta 1, y a 93 Km. de la capital, llegando por la Ruta 2.",
         "rating" : "4,0 / 5",
         "price" : "desde 20.000 Gs.",
         "city" : "paraguari",
-        "id" : "3"
+        "id" : "3",
+        "urlInner" : "chololo"
       },
       {
-        "imgUrl" : ["https://www.abc.com.py/resizer/xVYaEwe5Ic6R0TQJ3zjhAGG4lfU=/fit-in/770x495/smart/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/FLIZFMK3KBHI3CH4YVLPFCN6D4.jpg", "https://upload.wikimedia.org/wikipedia/commons/3/35/Palacio_de_los_L%C3%B3pez.jpg"],
+        "imgUrl" : ["http://www.unicanal.com.py/uploads/swp/gfftv8/media/5e7c8aeea97ed87e3df2091d.jpeg","https://i0.wp.com/www.ipparaguay.com.py/wp-content/uploads/2019/08/Palacio-de-los-L%C3%B3pez-Asunci%C3%B3n-Paraguay-foto-de-d%C3%ADa.jpg?resize=1024%2C588&ssl=1","https://i0.wp.com/www.ipparaguay.com.py/wp-content/uploads/2019/08/Im%C3%A1genes-del-Palacio-de-los-L%C3%B3pez.jpg?w=892&ssl=1","https://www.abc.com.py/resizer/xVYaEwe5Ic6R0TQJ3zjhAGG4lfU=/fit-in/770x495/smart/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/FLIZFMK3KBHI3CH4YVLPFCN6D4.jpg", "https://upload.wikimedia.org/wikipedia/commons/3/35/Palacio_de_los_L%C3%B3pez.jpg"],
         "title" : "Palacio de López",
         "titleDescription": "Tesoro del Patrimonio Cultural",
         "description" : "El Palacio de López, también llamado usualmente Palacio de Gobierno o Palacio Presidencial, es la sede del Poder Ejecutivo del Gobierno paraguayo y de la presidencia de la República del Paraguay.",
+        "descriptionLong1": "El Panteón Nacional de los Héroes y Oratorio de la Virgen Nuestra Señora Santa María de la Asunción se encuentra entre las calles Palma y Chile en pleno microcentro de la capital del Paraguay, Asunción",
+        "descriptionLong2": "El Palacio fue declarado Tesoro del Patrimonio Cultural Material de Asunción, con motivo de la elección de Asunción como Capital Americana de la Cultura 2009.",
+        "directionMap": "https://goo.gl/maps/URqoCUHssdwMCtpq8",
+        "direction": "El edificio se encuentra en el centro de la ciudad, en la calle Paraguayo Independiente, entre Ayolas y O'Leary, a orillas de la Bahía de Asunción, accidente geográfico correspondiente al río Paraguay.",
         "rating" : "4,9 / 5",
         "price" : "0 Gs.",
         "city" : "asuncion",
-        "id" : "4"
+        "id" : "4",
+        "urlInner" : "palacio-lopez"
       },
       {
-        "imgUrl" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykBvYjPc5uCY1D2sMh0AQfJuAquT3VTsk-0es_57eBT5TwGQIixXfktnkMONS8FbuQJeKBbiE4olxXJ1guazgVA", "https://www.abc.com.py/resizer/vkOJoIhumodzs-99OTR2z3cu19U=/fit-in/770x495/smart/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/MB5RIL2B5ZGLRFZLPPZJTXSV5A.jpg"],
+        "imgUrl" : ["https://media.ultimahora.com/p/3578b5b2c82856edd0540b8bd64cb7b2/adjuntos/161/imagenes/006/844/0006844203/panteon4jpeg.jpeg","https://www.ip.gov.py/ip/wp-content/uploads/2021/04/Pante%C3%B3n-de-los-Heroes-1-scaled.jpg","https://www.lanacion.com.py/resizer/tE7Xg_lcYGO_ThI6TWNL5joVpEo=/1920x0/smart/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/NZM7A4AOFJBV5FIHQFVHSWUD6E.jpeg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykBvYjPc5uCY1D2sMh0AQfJuAquT3VTsk-0es_57eBT5TwGQIixXfktnkMONS8FbuQJeKBbiE4olxXJ1guazgVA", "https://www.abc.com.py/resizer/vkOJoIhumodzs-99OTR2z3cu19U=/fit-in/770x495/smart/arc-anglerfish-arc2-prod-abccolor.s3.amazonaws.com/public/MB5RIL2B5ZGLRFZLPPZJTXSV5A.jpg"],
         "title" : "Panteón de los Héroes",
         "titleDescription": "Tesoro del Patrimonio Cultural",
         "description" : "El Panteón Nacional de los Héroes y Oratorio de la Virgen Nuestra Señora Santa María de la Asunción se encuentra entre las calles Palma y Chile en pleno microcentro de la capital del Paraguay, Asunción. ",
+        "descriptionLong1": "En octubre de 1863, el entonces presidente de la República Francisco Solano López, ordenó la construcción del oratorio de la Virgen de la Asunción, fue diseñada por el arquitecto italiano Alejandro Ravizza, en colaboración con el constructor Giácomo Colombino.",
+        "descriptionLong2": "Dentro del recinto del panteón se han fijado infinidad de placas honoríficas enviadas por ilustres gobernantes extranjeros, reyes y príncipes. Felicitaciones y versos de reconocimiento a la Armada Paraguaya, las Fuerzas Aéreas entre otras instituciones",
+        "directionMap": "https://goo.gl/maps/ygv9XsCqFipr1La87",
+        "direction": "El Panteón Nacional de los Héroes y Oratorio de la Virgen Nuestra Señora Santa María de la Asunción se encuentra entre las calles Palma y Chile en pleno microcentro de la capital del Paraguay, Asunción",
         "rating" : "4,7 / 5",
         "price" : "0 Gs.",
         "city" : "asuncion",
-        "id" : "5"
+        "id" : "5",
+        "urlInner" : "panteon-heroes"
       },
       {
-        "imgUrl" : ["https://upload.wikimedia.org/wikipedia/commons/4/4f/Asunci%C3%B3n_-_Casa_de_la_Independencia.JPG", "http://www.cultura.gov.py/wp-content/uploads/2017/01/Panorama_sin_t%C3%ADtulo-salon-3-vertical.jpg"],
+        "imgUrl" : ["https://ilamdir.org/blobs/ilamdir/w1280h720/328/2019/35/26158756_129501937856132_1080698077586653184_n.jpg","https://ilamdir.org/blobs/ilamdir/w1280h720/328/2019/35/casa-independencia-cuadros-paraguay.jpg","https://ilamdir.org/blobs/ilamdir/w1280h720/328/2019/35/07575974_85096781_5911BBBF531A1_B.jpg","https://upload.wikimedia.org/wikipedia/commons/4/4f/Asunci%C3%B3n_-_Casa_de_la_Independencia.JPG", "https://www.ip.gov.py/ip/wp-content/uploads/2018/05/21687944_1466769313372323_2241408210959413109_n.jpg"],
         "title" : "Casa de la Independencia",
         "titleDescription": "Monumento Histórico Nacional",
         "description" : "El Museo Casa de la Independencia en Asunción, fue inaugurado el 14 de mayo de 1965. Ubicado en la esquina de las calles Presidente Franco y 14 de Mayo, destaca en él su marcado estilo colonial.", 
+        "descriptionLong1": "La casa donde se ubica hoy el Museo, fue construida en el año 1772 por el ciudadano español Antonio Martínez Sáenz, casado con la paraguaya Petrona Caballero de Bazán.",
+        "descriptionLong2": "Esta casa tiene una importancia histórica ya que los principales protagonistas de la independencia del país la usaron como sede secreta de reuniones.",
+        "directionMap": "https://goo.gl/maps/EBKEzCH9aunJHQWn6",
+        "direction": "Ubicado en la esquina de las calles Presidente Franco y 14 de Mayo, en Asunción.",
         "rating" : "4,3 / 5",
         "price" : "0 Gs.",
         "city" : "asuncion",
-        "id" : "6"
+        "id" : "6",
+        "urlInner" : "casa-independencia"
       }
 ]

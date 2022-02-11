@@ -70,6 +70,7 @@ export const ListText = styled.div`
         font-size: 21px;
     }
     & p a{
+        color: white;
         border-bottom: 2px solid white;
     }
 `;
@@ -102,7 +103,7 @@ export const Result = styled.div`
         transform: scale(1.1);
         border-radius: 40px;
         padding: 20px;
-        transition: all ease .6s
+        transition: all ease .6s;
     }
 `;
 
@@ -117,6 +118,10 @@ export const ImgContainer = styled.div`
     position: relative;
     font-size: 15px;
     color: black;
+    & a{
+        width: 100%;
+        height: 100%;
+    }
 `;
 export const ResultImg = styled.img`
     height: 100%;

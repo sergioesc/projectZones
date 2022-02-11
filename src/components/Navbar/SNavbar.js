@@ -11,6 +11,9 @@ export const ContainerNav = styled.div`
     background: linear-gradient(to right, #243B55, #141E30); 
     color: white;
     margin-bottom: 20px;
+    & a{
+            color: white;
+        }
 `;
 
 export const LogoContainer = styled.div`
@@ -21,7 +24,6 @@ export const LogoContainer = styled.div`
 
 export const MenuContainer = styled.div`
     width: calc(100% - 150px);
-
     @media (max-width:750px){
         position: absolute;
         width: 100%;
