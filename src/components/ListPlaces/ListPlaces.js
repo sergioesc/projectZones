@@ -42,7 +42,7 @@ const ListPlaces = () => {
                         Encuentra los mejores lugares en NAMEPROJECT
                     </p>
                     <p>
-                        Recuerda estar al tanto de las restricciones del coronavirus antes de viajar. <Link to="/covid">Más informacion</Link>
+                        Recuerda estar al tanto de las restricciones del coronavirus antes de viajar. <Link to="/projectZones/covid">Más informacion</Link>
                     </p>
                     <hr />
                 </ListText>

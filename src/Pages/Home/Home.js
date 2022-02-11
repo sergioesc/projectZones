@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
              <HomeContainerGrid>
                  <GridContainerMap>
                      <MapWhere>
-                        <Link to="/"> 
+                        <Link to="/projectZones"> 
                             <WhereText>MAPA INTERACTIVO</WhereText>
                             <WhereDescription>Podras interactuar con un mapa en tiempo real con tecnologia Google Maps.</WhereDescription>
                         </Link> 
@@ -16,7 +16,7 @@ import { Link } from 'react-router-dom'
                  </GridContainerMap>
                  <GridContainerSearch>
                      <SearchWhere>
-                        <Link to="/buscar"> 
+                        <Link to="/projectZones/buscar"> 
                             <WhereText1>BUSCADOR PROJECT</WhereText1>
                             <WhereDescription1>Podras interactuar con el search en tiempo real con nuestra propia tecnologia</WhereDescription1>
                         </Link>

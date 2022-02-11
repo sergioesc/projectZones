@@ -7,7 +7,7 @@ function CardResultItem(){
         <Routes>
             {
              dataJSON.map((val, key) => {
-              return <Route exact path={"buscar/"+val.urlInner} key={key} element={
+              return <Route exact path={"/projectZones/buscar/"+val.urlInner} key={key} element={
               <Item 
                 title={val.title}
                 titleDescription={val.titleDescription}

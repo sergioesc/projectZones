@@ -19,22 +19,22 @@ const Navbar = () =>{
     return(
         <ContainerNav>
             <LogoContainer onClick={handleCloseShow}>
-                <Link to="/">LOGO</Link>
+                <Link to="/projectZones">LOGO</Link>
             </LogoContainer>
             <MenuContainer extendShowMenu={show}>
                 <MenuContainerList >
                     <MenuItem onClick={handleCloseShow}>
-                        <Link to="/">
+                        <Link to="/projectZones">
                             <ItemLink>INICIO</ItemLink>
                         </Link>
                     </MenuItem>
                     <MenuItem onClick={handleCloseShow}>
-                        <Link to="/acerca">
+                        <Link to="/projectZones/acerca">
                             <ItemLink>ACERCA DE</ItemLink>
                         </Link>
                     </MenuItem>
                     <MenuItem onClick={handleCloseShow}>
-                        <Link to="/registrarse">
+                        <Link to="/projectZones/registrarse">
                             <ItemLink>REGISTRARSE</ItemLink>
                         </Link>
                     </MenuItem>

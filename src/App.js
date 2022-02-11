@@ -8,8 +8,8 @@ function App() {
     <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route exact path="/" element={<Home/>} />
-          <Route exact path="/buscar" element={<Search/>} />
+          <Route exact path="/projectZones" element={<Home/>} />
+          <Route exact path="/projectZones/buscar" element={<Search/>} />
         </Routes>
         <CardResultItem/> 
     </BrowserRouter>
