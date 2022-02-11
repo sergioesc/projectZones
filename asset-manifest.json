@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sergioesc/static/css/main.baed446c.css",
+    "main.js": "/sergioesc/static/js/main.0d100ea5.js",
+    "index.html": "/sergioesc/index.html",
+    "main.baed446c.css.map": "/sergioesc/static/css/main.baed446c.css.map",
+    "main.0d100ea5.js.map": "/sergioesc/static/js/main.0d100ea5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baed446c.css",
+    "static/js/main.0d100ea5.js"
+  ]
+}
