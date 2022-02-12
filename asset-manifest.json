@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/projectZones/static/css/main.baed446c.css",
-    "main.js": "/projectZones/static/js/main.b08324eb.js",
+    "main.js": "/projectZones/static/js/main.4a597489.js",
     "index.html": "/projectZones/index.html",
     "main.baed446c.css.map": "/projectZones/static/css/main.baed446c.css.map",
-    "main.b08324eb.js.map": "/projectZones/static/js/main.b08324eb.js.map"
+    "main.4a597489.js.map": "/projectZones/static/js/main.4a597489.js.map"
   },
   "entrypoints": [
     "static/css/main.baed446c.css",
-    "static/js/main.b08324eb.js"
+    "static/js/main.4a597489.js"
   ]
 }
