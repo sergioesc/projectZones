@@ -25,12 +25,13 @@ export const MenuContainer = styled.div`
     @media (max-width:750px){
         position: absolute;
         width: 100%;
-        top: 55px;
+        top: ${(props) => (props.extendShowMenu ? "55px": "-100%")};
         background: #8E0E00;  /* fallback for old browsers */
         background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  /* Chrome 10-25, Safari 5.1-6 */
         background: linear-gradient(to right, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         opacity: ${(props) => (props.extendShowMenu ? "1" : "0")};
-        transition: all ease .3s
+        transition: all ease .3s;
+
     }
 `;
 
@@ -64,7 +65,7 @@ export const MobileIcon = styled.div`
     font-size: 25px;
     display: none;
     @media (max-width: 750px){
-        display: block
+        display: block;
     }
     
 `;

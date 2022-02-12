@@ -12,7 +12,7 @@ export const  HomeContainerGrid = styled.div`
     @media screen and (max-width: 600px){
         grid-template-columns: 1fr;
         grid-template-rows: 300px 300px;
-        row-gap: 40px;
+        row-gap: 10px;
         margin: auto;   
     }
     @media screen and (max-width: 360px){

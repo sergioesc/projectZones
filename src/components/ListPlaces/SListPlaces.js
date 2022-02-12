@@ -69,7 +69,6 @@ export const DataListOption = styled.option`
 export const ListInner = styled.div`
  margin: 70px auto;
  width: 100%;
- cursor: pointer;
 
 `;
 

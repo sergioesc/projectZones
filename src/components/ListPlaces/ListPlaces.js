@@ -56,21 +56,21 @@ const ListPlaces = () => {
                                return val;
                             }
                             }).slice(0, 6).map((val,key)=>{
-                            return  <Result key={key}>
+                            return  <Result>
                                         <ImgContainer>
-                                        <Link to={val.urlInner} target="_blank">
-                                            <ResultImg src={val.imgUrl[0]} key={key} />
-                                        </Link>
+                                            <Link to={val.urlInner}>
+                                                <ResultImg src={val.imgUrl[0]} key={key} />
+                                            </Link>
                                         </ImgContainer>         
                                         <ResultDescription>
                                             <ResultTittle>
                                                 <ResultSmall>
                                                     {val.titleDescription}
                                                 </ResultSmall>
-                                                <Link to={val.urlInner} target="_blank">
-                                                 <Resulth1>
+                                                <Link to={val.urlInner}>
+                                                    <Resulth1>
                                                        {val.title} 
-                                                 </Resulth1>
+                                                    </Resulth1>
                                                  </Link> 
                                                 <FontAwesomeIcon onClick={handleClick(key)}  icon={clickedIndex[key] ? faHeart : faHeart2}/>
                                             </ResultTittle>
